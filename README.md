@@ -20,7 +20,7 @@ Select the color you want to modify with the left mouse button (the script alway
 
 ## Known Issues
 
-<a id="known_issues"></a>The script probably doesn't work well if GrafX2 is set to fullscreen mode; I cannot test this, because on my machine GrafX2 crashes whenever I try to set it to fullscreen.
+<a id="known-issues"></a>The script probably doesn't work well if GrafX2 is set to fullscreen mode; I cannot test this, because on my machine GrafX2 crashes whenever I try to set it to fullscreen.
 
 If you switch to another app while the color picker is open GrafX2 will beachball when you switch back to it, and the color picker will disappear. To make it reappear, click its icon in the dock (it should look like a standard shell executable).
 
