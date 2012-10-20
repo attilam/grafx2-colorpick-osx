@@ -18,7 +18,7 @@ r,g,b = getcolor(foreindex);
 colorhex = string.format("%02x%02x%02x", r, g, b)
 
 statusmessage("Pick foreground color")
-wait(0.01) -- give statusmessage a chance to show up
+wait(0) -- give statusmessage a chance to show up
 
 -- invoke colorpick and store results in a temporary file
 tempfile = os.tmpname();
