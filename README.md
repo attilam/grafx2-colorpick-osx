@@ -3,7 +3,7 @@ OS X System Color Picker Inside GrafX2!
 
 I used to be a big fan of [Brilliance](http://en.wikipedia.org/wiki/Brilliance_%28graphics_editor%29) on the Amiga, and I love [GrafX2](http://code.google.com/p/grafx2/), but I've also gotten used to the OS X system color picker too much in recent years. Enter GrafX2's Brush Factory + Johan Nordberg's command line wrapper for the system color picker + some scripting attempt on my part, and BOOM: Awesomeness squared! (well, almost, see [Known Issues](#known-issues))
 
-Tested on Mac OS X 10.7 and 10.8, with GrafX 2.4wip.
+Tested on Mac OS X 10.7, 10.8 and 10.9, with GrafX 2.4.
 
 ## Installation
 
